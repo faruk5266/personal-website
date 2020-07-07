@@ -21,6 +21,7 @@ span{
 }
 section{
     height: 300px;
+    padding-bottom: 50px;
 }
 .button{
     text-decoration: none;
@@ -33,3 +34,59 @@ section{
 .top-banner{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
+}
+.bio-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.hard-work{
+    margin-top: 800px;
+    text-align: center;
+}
+.hard-work h2{
+    padding-bottom: 50px;
+}
+#pic{
+    width: 100%;
+    padding-right: 10%;
+   
+}
+.get-mad{
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+   align-items: center;   
+}
+.hard-work{ 
+    height: 300px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    padding-bottom: 200px;
+}.bottom{
+    text-align: center;
+    padding-bottom: 200px;
+}
+h6{
+    color: gray;
+}
+.underline{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+#box{
+background-color:red;
+border-radius: 10px;
+border-width: 20%;
+margin: 10px 400px;
+padding: 25px 1px;
+color: white;
+}
+footer{
+    background-image: url(images/footer-bg.png);
+    text-align: center;
+    font-size: 10px;
+    color: gray;
+}
